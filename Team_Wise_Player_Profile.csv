@@ -1,0 +1,251 @@
+Team,Player_Name,Role,Batter_Type,Bowler_Style,Bowler_Type,Seamer_or_Spinner,Overseas_Player
+CSK,MS Dhoni,Wicketkeeper Batter,Right hand Bat,Right arm Medium,Right,Seamer,No
+CSK,Akash Singh,Bowler,Right hand Bat,Left arm Medium fast,Left,Seamer,No
+CSK,Moeen Ali,Batting Allrounder,Left hand Bat,Right arm Offbreak,Right,Spinner,Yes
+CSK,Bhagath Varma,Bowling Allrounder,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+CSK,Deepak Chahar,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+CSK,Devon Conway,Wicketkeeper Batter,Left hand Bat,Right arm Medium,Right,Seamer,Yes
+CSK,Tushar Deshpande,Bowler,Left hand Bat,Right arm Medium,Right,Seamer,No
+CSK,Shivam Dube,Allrounder,Left hand Bat,Right arm Medium,Right,Seamer,No
+CSK,Ruturaj Gaikwad,Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+CSK,Rajvardhan Hangargekar,Bowling Allrounder,Right hand Bat,Right arm Fast medium,Right,Seamer,No
+CSK,Ravindra Jadeja,Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+CSK,Sisanda Magala,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,Yes
+CSK,Ajay Mandal,Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+CSK,Matheesha Pathirana,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,Yes
+CSK,Dwaine Pretorius,Bowling Allrounder,Right hand Bat,Right arm Medium fast,Right,Seamer,Yes
+CSK,Ajinkya Rahane,Top order Batter,Right hand Bat,Right arm Medium,Right,Seamer,No
+CSK,Shaik Rasheed,Batter,Right hand Bat,Legbreak,Right,Spinner,No
+CSK,Ambati Rayudu,Middle order Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+CSK,Mitchell Santner,Bowling Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,Yes
+CSK,Subhranshu Senapati,Top order Batter,Right hand Bat,Right arm Medium,Right,Seamer,No
+CSK,Simarjeet Singh,Bowler,Right hand Bat,Right arm Medium fast,Right,Seamer,No
+CSK,Nishant Sindhu,Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+CSK,Prashant Solanki,Bowler,Right hand Bat,Legbreak,Right,Spinner,No
+CSK,Ben Stokes,Allrounder,Left hand Bat,Right arm Fast medium,Right,Seamer,Yes
+CSK,Maheesh Theekshana,Bowler,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+DC,David Warner,Opening Batter,Left hand Bat,Legbreak,Right,Spinner,Yes
+DC,Abishek Porel,Wicketkeeper Batter,Left hand Bat,,,,No
+DC,Khaleel Ahmed,Bowler,Right hand Bat,Left arm Medium,Left,Seamer,No
+DC,Aman Hakim Khan,Allrounder,Right hand Bat,Right arm Medium,Right,Seamer,No
+DC,Yash Dhull,Top order Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+DC,Praveen Dubey,Bowler,Right hand Bat,Legbreak Googly,Right,Spinner,No
+DC,Priyam Garg,Top order Batter,Right hand Bat,Right arm Medium,Right,Seamer,No
+DC,Sarfaraz Khan,Middle order Batter,Right hand Bat,Legbreak,Right,Spinner,No
+DC,Kuldeep Yadav,Bowler,Left hand Bat,Left arm Wrist spin,Left,Spinner,No
+DC,Lalit Yadav,Allrounder,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+DC,Mitchell Marsh,Allrounder,Right hand Bat,Right arm Medium,Right,Seamer,Yes
+DC,Mukesh Kumar,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+DC,Mustafizur Rahman,Bowler,Left hand Bat,Left arm Fast medium,Left,Seamer,Yes
+DC,Lungi Ngidi,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,Yes
+DC,Anrich Nortje,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,Yes
+DC,Vicky Ostwal,Bowler,Right hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+DC,Manish Pandey,Top order Batter,Right hand Bat,Right arm Medium,Right,Seamer,No
+DC,Ripal Patel,Middle order Batter,Right hand Bat,Right arm Medium fast,Right,Seamer,No
+DC,Axar Patel,Bowling Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+DC,Rovman Powell,Middle order Batter,Right hand Bat,Right arm Medium fast,Right,Seamer,Yes
+DC,Rilee Rossouw,Top order Batter,Left hand Bat,Right arm Offbreak,Right,Spinner,Yes
+DC,Chetan Sakariya,Bowler,Left hand Bat,Left arm Medium fast,Left,Seamer,No
+DC,Phil Salt,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+DC,Ishant Sharma,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,No
+DC,Prithvi Shaw,Opening Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+GT,Hardik Pandya,Allrounder,Right hand Bat,Right arm Medium fast,Right,Seamer,No
+GT,Srikar Bharat,Wicketkeeper Batter,Right hand Bat,,,,No
+GT,Alzarri Joseph,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,Yes
+GT,Josh Little,Bowler,Right hand Bat,Left arm Fast medium,Left,Seamer,Yes
+GT,Abhinav Manohar,Batting Allrounder,Right hand Bat,Legbreak Googly,Right,Spinner,No
+GT,David Miller,Middle order Batter,Left hand Bat,Right arm Offbreak,Right,Spinner,Yes
+GT,Mohammed Shami,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,No
+GT,Darshan Nalkande,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,No
+GT,Noor Ahmad,Bowler,Right hand Bat,Left arm Wrist spin,Left,Spinner,Yes
+GT,Urvil Patel,Wicketkeeper Batter,Right hand Bat,,,,No
+GT,Rashid Khan,Bowling Allrounder,Right hand Bat,Legbreak Googly,Right,Spinner,Yes
+GT,Wriddhiman Saha,Wicketkeeper Batter,Right hand Bat,,,,No
+GT,Ravisrinivasan Sai Kishore,Bowler,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+GT,Sai Sudharsan,Top order Batter,Left hand Bat,Legbreak,Right,Spinner,No
+GT,Pradeep Sangwan,Bowler,Right hand Bat,Left arm Medium,Left,Seamer,No
+GT,Dasun Shanaka,Allrounder,Right hand Bat,Right arm Medium,Right,Seamer,Yes
+GT,Vijay Shankar,Allrounder,Right hand Bat,Right arm Medium,Right,Seamer,No
+GT,Mohit Sharma,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+GT,Shivam Mavi,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,No
+GT,Shubman Gill,Opening Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+GT,Odean Smith,Bowling Allrounder,Right hand Bat,Right arm Fast medium,Right,Seamer,Yes
+GT,Rahul Tewatia,Bowling Allrounder,Left hand Bat,Legbreak,Right,Spinner,No
+GT,Matthew Wade,Wicketkeeper Batter,Left hand Bat,Right arm Medium,Right,Seamer,Yes
+GT,Jayant Yadav,Bowler,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+GT,Yash Dayal,Bowler,Right hand Bat,Left arm Medium fast,Left,Seamer,No
+GT,Kane Williamson,Top order Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+KKR,Nitish Rana,Middle order Batter,Left hand Bat,"Right arm Medium, Right arm Offbreak, Legbreak",Right,Seamer,No
+KKR,Aarya Desai,,Left hand Bat,Right arm Offbreak,Right,Spinner,No
+KKR,Vaibhav Arora,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,No
+KKR,Johnson Charles,Wicketkeeper Batter,Right hand Bat,,,,Yes
+KKR,Lockie Ferguson,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,Yes
+KKR,Harshit Rana,Bowler,Right hand Bat,Right arm Medium fast,Right,Seamer,No
+KKR,Venkatesh Iyer,Allrounder,Left hand Bat,Right arm Medium,Right,Seamer,No
+KKR,Narayan Jagadeesan,Opening Batter,Right hand Bat,,,,No
+KKR,Kulwant Khejroliya,Bowler,Left hand Bat,Left arm Medium fast,Left,Seamer,No
+KKR,Mandeep Singh,Allrounder,Right hand Bat,Right arm Medium,Right,Seamer,No
+KKR,Sunil Narine,Bowling Allrounder,Left hand Bat,Right arm Offbreak,Right,Spinner,Yes
+KKR,Rahmanullah Gurbaz,Wicketkeeper Batter,Right hand Bat,,,,Yes
+KKR,Jason Roy,Opening Batter,Right hand Bat,,,,Yes
+KKR,Anukul Roy,Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+KKR,Andre Russell,Allrounder,Right hand Bat,Right arm Fast,Right,Seamer,Yes
+KKR,Rinku Singh,Middle order Batter,Left hand Bat,Right arm Offbreak,Right,Spinner,No
+KKR,Tim Southee,Bowler,Right hand Bat,Right arm Medium fast,Right,Seamer,Yes
+KKR,Suyash Sharma,Bowler,Right hand Bat,Legbreak Googly,Right,Spinner,No
+KKR,Shardul Thakur,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+KKR,Varun Chakravarthy,Bowler,Right hand Bat,Legbreak Googly,Right,Spinner,No
+KKR,David Wiese,Allrounder,Right hand Bat,Right arm Medium fast,Right,Seamer,Yes
+KKR,Umesh Yadav,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,No
+KKR,Litton Das,Batter,Right hand Bat,,Right,,Yes
+LSG,Krunal Pandya,Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+LSG,Avesh Khan,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,No
+LSG,Ayush Badoni,Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+LSG,Quinton de Kock,Wicketkeeper Batter,Left hand Bat,,,,Yes
+LSG,Krishnappa Gowtham,Bowling Allrounder,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+LSG,Arpit Guleria,,Right hand Bat,Right arm Medium,Right,Seamer,No
+LSG,Deepak Hooda,Allrounder,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+LSG,Prerak Mankad,Allrounder,Right hand Bat,Right arm Medium,Right,Seamer,No
+LSG,Kyle Mayers,Batting Allrounder,Left hand Bat,Right arm Medium,Right,Seamer,Yes
+LSG,Amit Mishra,Bowler,Right hand Bat,Legbreak,Right,Spinner,No
+LSG,Mohsin Khan,Bowler,Left hand Bat,Left arm Medium fast,Left,Seamer,No
+LSG,Naveen-ul-Haq,Bowler,Right hand Bat,Right arm Medium fast,Right,Seamer,Yes
+LSG,Nicholas Pooran,Wicketkeeper Batter,Left hand Bat,Right arm Offbreak,Right,Spinner,Yes
+LSG,Ravi Bishnoi,Bowler,Right hand Bat,Legbreak Googly,Right,Spinner,No
+LSG,Daniel Sams,Allrounder,Right hand Bat,Left arm Fast medium,Left,Seamer,Yes
+LSG,Karan Sharma,Allrounder,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+LSG,Romario Shepherd,Bowling Allrounder,Right hand Bat,Right arm Fast medium,Right,Seamer,Yes
+LSG,Marcus Stoinis,Batting Allrounder,Right hand Bat,Right arm Medium,Right,Seamer,Yes
+LSG,Swapnil Singh,Bowler,Right hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+LSG,Jaydev Unadkat,Bowler,Right hand Bat,Left arm Medium,Left,Seamer,No
+LSG,Manan Vohra,Opening Batter,Right hand Bat,Right arm Medium,Right,Seamer,No
+LSG,Mark Wood,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,Yes
+LSG,Yash Thakur,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,No
+LSG,Yudhvir Singh,Bowler,Right hand Bat,Right arm Medium fast,Right,Seamer,No
+LSG,KL Rahul,Wicketkeeper Batter,Right hand Bat,,,,No
+MI,Rohit Sharma,Top order Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+MI,Jofra Archer,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,Yes
+MI,Arshad Khan,Bowler,Left hand Bat,Left arm Medium,Left,Seamer,No
+MI,Jason Behrendorff,Bowler,Right hand Bat,Left arm Fast medium,Left,Seamer,Yes
+MI,Dewald Brevis,Batting Allrounder,Right hand Bat,Legbreak,Right,Spinner,Yes
+MI,Piyush Chawla,Bowling Allrounder,Left hand Bat,Legbreak,Right,Spinner,No
+MI,Tim David,Middle order Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+MI,Raghav Goyal,Bowler,Left hand Bat,Left arm Wrist spin,Left,Spinner,No
+MI,Cameron Green,Batting Allrounder,Right hand Bat,Right arm Fast medium,Right,Seamer,Yes
+MI,Ishan Kishan,Wicketkeeper Batter,Left hand Bat,,,,No
+MI,Duan Jansen,Bowler,Right hand Bat,Left arm Fast,Left,Seamer,Yes
+MI,Chris Jordan,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,Yes
+MI,Kumar Kartikeya,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,No
+MI,Akash Madhwal,Bowler,Right hand Bat,Right arm Medium fast,Right,Seamer,No
+MI,Riley Meredith,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,Yes
+MI,Shams Mulani,Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+MI,Ramandeep Singh,Middle order Batter,Right hand Bat,Right arm Medium,Right,Seamer,No
+MI,Sandeep Warrier,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+MI,Hrithik Shokeen,Bowler,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+MI,Tristan Stubbs,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+MI,Arjun Tendulkar,Bowler,Left hand Bat,Left arm Medium fast,Left,Seamer,No
+MI,Tilak Varma,Batting Allrounder,Left hand Bat,Right arm Offbreak,Right,Spinner,No
+MI,Vishnu Vinod,Wicketkeeper Batter,Right hand Bat,,,,No
+MI,Nehal Wadhera,Top order Batter,Left hand Bat,Legbreak,Right,Spinner,No
+MI,Suryakumar Yadav,Batter,Right hand Bat,"Right arm Medium, Right arm Offbreak",Right,Seamer,No
+PK,Shikhar Dhawan,Opening Batter,Left hand Bat,Right arm Offbreak,Right,Spinner,No
+PK,Arshdeep Singh,Bowler,Left hand Bat,Left arm Medium fast,Left,Seamer,No
+PK,Baltej Singh,Bowler,Left hand Bat,Right arm Offbreak,Right,Spinner,No
+PK,Rahul Chahar,Bowler,Right hand Bat,Legbreak Googly,Right,Spinner,No
+PK,Sam Curran,Allrounder,Left hand Bat,Left arm Medium fast,Left,Seamer,Yes
+PK,Rishi Dhawan,Allrounder,Right hand Bat,Right arm Medium fast,Right,Seamer,No
+PK,Nathan Ellis,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,Yes
+PK,Gurnoor Brar,Bowler,Left hand Bat,Right arm Fast,Right,Seamer,No
+PK,Harpreet Brar,Bowler,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+PK,Harpreet Singh,Batter,Left hand Bat,Right arm Medium,Right,Seamer,No
+PK,Vidwath Kaverappa,Bowler,Right hand Bat,Right arm Fast medium,Right,Seamer,No
+PK,Liam Livingstone,Batting Allrounder,Right hand Bat,"Right arm Offbreak, Legbreak",Right,Spinner,Yes
+PK,Mohit Rathee,Allrounder,Right hand Bat,Legbreak,Right,Spinner,No
+PK,Prabhsimran Singh,Wicketkeeper Batter,Right hand Bat,,,,No
+PK,Kagiso Rabada,Bowler,Left hand Bat,Right arm Fast,Right,Seamer,Yes
+PK,Bhanuka Rajapaksa,Top order Batter,Left hand Bat,Right arm Medium,Right,Seamer,Yes
+PK,M Shahrukh Khan,Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+PK,Jitesh Sharma,Wicketkeeper Batter,Right hand Bat,,,,No
+PK,Shivam Singh,Middle order Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+PK,Matthew Short,Top order Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+PK,Sikandar Raza,Batting Allrounder,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+PK,Atharva Taide,Batting Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+RR,Sanju Samson,Wicketkeeper Batter,Right hand Bat,,,,No
+RR,Abdul Basith,Allrounder,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+RR,Murugan Ashwin,Bowler,Right hand Bat,Legbreak Googly,Right,Spinner,No
+RR,Ravichandran Ashwin,Bowling Allrounder,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+RR,KM Asif,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+RR,Trent Boult,Bowler,Right hand Bat,Left arm Fast medium,Left,Seamer,Yes
+RR,Jos Buttler,Wicketkeeper Batter,Right hand Bat,,,,Yes
+RR,KC Cariappa,Bowler,Right hand Bat,Legbreak,Right,Spinner,No
+RR,Yuzvendra Chahal,Bowler,Right hand Bat,Legbreak Googly,Right,Spinner,No
+RR,Donovan Ferreira,Allrounder,Right hand Bat,,,,Yes
+RR,Shimron Hetmyer,Top order Batter,Left hand Bat,,,,Yes
+RR,Jason Holder,Bowling Allrounder,Right hand Bat,Right arm Medium fast,Right,Seamer,Yes
+RR,Yashasvi Jaiswal,Opening Batter,Left hand Bat,Legbreak,Right,Spinner,No
+RR,Dhruv Jurel,Wicketkeeper Batter,Right hand Bat,,,,No
+RR,Obed McCoy,Bowler,Left hand Bat,Left arm Fast medium,Left,Seamer,Yes
+RR,Devdutt Padikkal,Top order Batter,Left hand Bat,Right arm Offbreak,Right,Spinner,No
+RR,Riyan Parag,Top order Batter,Right hand Bat,Legbreak,Right,Spinner,No
+RR,Kunal Singh Rathore,Wicketkeeper Batter,Left hand Bat,,,,No
+RR,Joe Root,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak",Right,Spinner,Yes
+RR,Navdeep Saini,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,No
+RR,Sandeep Sharma,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+RR,Kuldeep Sen,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,No
+RR,Akash Vasisht,Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+RR,Kuldip Yadav,Bowler,Left hand Bat,Left arm Fast medium,Left,Seamer,No
+RR,Adam Zampa,Bowler,Right hand Bat,Legbreak Googly,Right,Spinner,Yes
+RCB,Faf du Plessis,Middle order Batter,Right hand Bat,Legbreak,Right,Spinner,Yes
+RCB,Akash Deep,Bowling Allrounder,Right hand Bat,Right arm Fast medium,Right,Seamer,No
+RCB,Finn Allen,Top order Batter,Right hand Bat,,,,Yes
+RCB,Anuj Rawat,Wicketkeeper Batter,Left hand Bat,,,,No
+RCB,Avinash Singh,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,No
+RCB,Manoj Bhandage,Allrounder,Left hand Bat,Right arm Medium fast,Right,Seamer,No
+RCB,Michael Bracewell,Batting Allrounder,Left hand Bat,Right arm Offbreak,Right,Spinner,Yes
+RCB,Wanindu Hasaranga,Allrounder,Right hand Bat,Legbreak,Right,Spinner,Yes
+RCB,Josh Hazlewood,Bowler,Left hand Bat,Right arm Fast medium,Right,Seamer,Yes
+RCB,Kedar Jadhav,Batting Allrounder,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+RCB,Dinesh Karthik,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+RCB,Siddarth Kaul,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+RCB,Virat Kohli,Top order Batter,Right hand Bat,Right arm Medium,Right,Seamer,No
+RCB,Mahipal Lomror,Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+RCB,Glenn Maxwell,Batting Allrounder,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+RCB,Mohammed Siraj,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,No
+RCB,Wayne Parnell,Bowler,Left hand Bat,Left arm Medium fast,Left,Seamer,Yes
+RCB,Harshal Patel,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+RCB,Suyash Prabhudessai,Batting Allrounder,Right hand Bat,Right arm Medium,Right,Seamer,No
+RCB,Rajan Kumar,,Left hand Bat,Left arm Medium fast,Left,Seamer,No
+RCB,Shahbaz Ahmed,Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+RCB,Himanshu Sharma,Bowler,Right hand Bat,Legbreak,Right,Spinner,No
+RCB,Karn Sharma,Bowler,Left hand Bat,Legbreak Googly,Right,Spinner,No
+RCB,Sonu Yadav,Allrounder,Right hand Bat,Right arm Medium fast,Right,Seamer,No
+RCB,Vijaykumar Vyshak,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+RCB,Will Jacks,Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+RCB,Rajat Patidar,Top order Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+RCB,Reece Topley,Bowler,Right hand Bat,Left arm Fast medium,Left,Seamer,Yes
+RCB,David Willey,Bowling Allrounder,Left hand Bat,Left arm Fast medium,Left,Seamer,Yes
+SRH,Aiden Markram,Opening Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+SRH,Abdul Samad,Batter,Right hand Bat,Legbreak,Right,Spinner,No
+SRH,Abhishek Sharma,Allrounder,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+SRH,Mayank Agarwal,Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+SRH,Anmolpreet Singh,Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+SRH,Harry Brook,Batter,Right hand Bat,Right arm Medium,Right,Seamer,Yes
+SRH,Mayank Dagar,Bowler,Right hand Bat,Slow Left arm Orthodox,Left,Spinner,No
+SRH,Fazalhaq Farooqi,Bowler,Right hand Bat,Left arm Fast medium,Left,Seamer,Yes
+SRH,Akeal Hosein,Bowler,Left hand Bat,Slow Left arm Orthodox,Left,Spinner,Yes
+SRH,Marco Jansen,Bowling Allrounder,Right hand Bat,Left arm Medium fast,Left,Seamer,Yes
+SRH,Kartik Tyagi,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,No
+SRH,Heinrich Klaasen,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+SRH,Bhuvneshwar Kumar,Bowler,Right hand Bat,Right arm Medium,Right,Seamer,No
+SRH,Mayank Markande,Bowler,Right hand Bat,Legbreak,Right,Spinner,No
+SRH,T Natarajan,Bowler,Left hand Bat,Left arm Medium,Left,Seamer,No
+SRH,Nitish Kumar Reddy,Batting Allrounder,Right hand Bat,Right arm Medium fast,Right,Seamer,No
+SRH,Glenn Phillips,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,Yes
+SRH,Adil Rashid,Bowler,Right hand Bat,Legbreak,Right,Spinner,Yes
+SRH,Sanvir Singh,Allrounder,Right hand Bat,Right arm Medium,Right,Seamer,No
+SRH,Rahul Tripathi,Top order Batter,Right hand Bat,Right arm Medium,Right,Seamer,No
+SRH,Umran Malik,Bowler,Right hand Bat,Right arm Fast,Right,Seamer,No
+SRH,Vivrant Sharma,Allrounder,Left hand Bat,Legbreak Googly,Right,Spinner,No
+SRH,Samarth Vyas,Allrounder,Right hand Bat,Legbreak Googly,Right,Spinner,No
+SRH,Upendra Yadav,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,Right,Spinner,No
+SRH,Washington Sundar,Bowling Allrounder,Left hand Bat,Right arm Offbreak,Right,Spinner,No
